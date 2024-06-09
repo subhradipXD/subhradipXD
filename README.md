@@ -1,12 +1,8 @@
-<h2 align="left">Enchantment weaver extraordinaire, Hi! 👋 I'm Subhradip, a Full Stack Web Sorcerer conjuring captivating digital realms where imagination takes flight. With spells of front-end enchantment and back-end wizardry, I sculpt immersive experiences and mystical solutions. Enter my GitHub realm, where every line of code holds the essence of a magical journey.</h2>
-
-###
-
-<br clear="both">
-
 <div align="center">
   <img height="150" src="https://i.pinimg.com/originals/75/e7/ef/75e7ef7aa27009befb076509382b86b8.gif"  />
 </div>
+<br clear="both">
+<h2 align="left">Enchantment weaver extraordinaire, Hi! 👋 I'm Subhradip, a Full Stack Web Sorcerer conjuring captivating digital realms where imagination takes flight. With spells of front-end enchantment and back-end wizardry, I sculpt immersive experiences and mystical solutions. Enter my GitHub realm, where every line of code holds the essence of a magical journey.</h2>
 
 ###
 
