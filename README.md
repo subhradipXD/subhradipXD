@@ -3,10 +3,17 @@
 <p align="center">Enchantment weaver extraordinaire, Hi! 👋 I'm Subhradip, a Full Stack Web Sorcerer conjuring captivating digital realms where imagination takes flight. With spells of front-end enchantment and back-end wizardry, I sculpt immersive experiences and mystical solutions. Enter my GitHub realm, where every line of code holds the essence of a magical journey.</p>
 
 ###
+<!--
 <br clear="both">
 
 <div align="center">
   <img height="150" src="https://www.bing.com/th/id/OGC.d3bb6183fe7bc7bfac8288e964becd64?pid=1.7&rurl=https%3a%2f%2fgiffiles.alphacoders.com%2f360%2f36000.gif&ehk=X5376FTf9Ib7oocuMRvFVpkiU90tp5BFHL7vCRgglA4%3d"  />
+</div>
+-->
+<br clear="both">
+
+<div align="center">
+  <img height="150" src="[https://www.bing.com/th/id/OGC.d3bb6183fe7bc7bfac8288e964becd64?pid=1.7&rurl=https%3a%2f%2fgiffiles.alphacoders.com%2f360%2f36000.gif&ehk=X5376FTf9Ib7oocuMRvFVpkiU90tp5BFHL7vCRgglA4%3d](https://drive.google.com/file/d/1cLnXQIuNzWEDi0rSlT33-Bm8Bsa88Vr9/view?usp=sharing)"  />
 </div>
 
 ###
