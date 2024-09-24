@@ -13,7 +13,7 @@
 <br clear="both">
 
 <div align="center">
-  <img height="150" src="https://drive.google.com/file/d/1cLnXQIuNzWEDi0rSlT33-Bm8Bsa88Vr9/view?usp=sharing"  />
+  <img height="150" src="https://drive.google.com/file/d/1cLnXQIuNzWEDi0rSlT33-Bm8Bsa88Vr9/view?usp=drive_link"  />
 </div>
 
 ###
