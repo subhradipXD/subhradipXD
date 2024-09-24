@@ -10,6 +10,14 @@
 </div>
 
 ###
+<br clear="both">
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/subhradipXD/count.svg?"  />
+</div>
+
+###
+
 
 <br clear="both">
 
@@ -81,5 +89,15 @@
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/subhradipXD/subhradipXD/output/snake.svg" alt="Snake animation" />
+
+###
+
+<br clear="both">
+
+<div align="center">
+  <a href="https://open.spotify.com/user/esrwffqlklcag23ef5v9hzppv">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=esrwffqlklcag23ef5v9hzppv&count=5" alt="Spotify recently played"  />
+  </a>
+</div>
 
 ###
