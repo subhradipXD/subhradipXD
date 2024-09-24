@@ -3,13 +3,10 @@
 <p align="center">Enchantment weaver extraordinaire, Hi! 👋 I'm Subhradip, a Full Stack Web Sorcerer conjuring captivating digital realms where imagination takes flight. With spells of front-end enchantment and back-end wizardry, I sculpt immersive experiences and mystical solutions. Enter my GitHub realm, where every line of code holds the essence of a magical journey.</p>
 
 ###
-
 <br clear="both">
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=subhradipXD&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=subhradipXD&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=subhradipXD&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=12&theme=darcula&hide_border=false" height="150" alt="languages graph"  />
+  <img height="150" src="https://www.bing.com/th/id/OGC.d3bb6183fe7bc7bfac8288e964becd64?pid=1.7&rurl=https%3a%2f%2fgiffiles.alphacoders.com%2f360%2f36000.gif&ehk=X5376FTf9Ib7oocuMRvFVpkiU90tp5BFHL7vCRgglA4%3d"  />
 </div>
 
 ###
@@ -17,7 +14,9 @@
 <br clear="both">
 
 <div align="center">
-  <img height="150" src="https://www.bing.com/th/id/OGC.d3bb6183fe7bc7bfac8288e964becd64?pid=1.7&rurl=https%3a%2f%2fgiffiles.alphacoders.com%2f360%2f36000.gif&ehk=X5376FTf9Ib7oocuMRvFVpkiU90tp5BFHL7vCRgglA4%3d"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=subhradipXD&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com?user=subhradipXD&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=subhradipXD&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=12&theme=darcula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
 ###
