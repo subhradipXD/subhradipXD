@@ -13,7 +13,7 @@
 <br clear="both">
 
 <div align="center">
-  <img height="150" src="https://www.bing.com/th/id/OGC.d3bb6183fe7bc7bfac8288e964becd64?pid=1.7&rurl=https%3a%2f%2fgiffiles.alphacoders.com%2f360%2f36000.gif&ehk=X5376FTf9Ib7oocuMRvFVpkiU90tp5BFHL7vCRgglA4%3d"  />
+  <img height="150" src="https://drive.google.com/file/d/1cLnXQIuNzWEDi0rSlT33-Bm8Bsa88Vr9/view?usp=sharing"  />
 </div>
 
 ###
